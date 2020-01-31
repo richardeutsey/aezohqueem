@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://phapaerai.jrbalsano.com/sitemap.xml
